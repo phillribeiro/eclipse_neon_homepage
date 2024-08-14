@@ -1,0 +1,1 @@
+I made this hompage about a band thinking to improve more my habilities. I used tecnologies as HTML and CSS to be a simple homepage demonstration. l hope you enjoy it and help me to grow up if you have a comment. thanks a lot ! ;)
